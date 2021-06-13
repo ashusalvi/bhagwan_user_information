@@ -58,6 +58,10 @@
         .m-b-md {
             margin-bottom: 30px;
         }
+
+        b, strong {
+            font-weight: 600;
+        }
     </style>
     @yield('css-contain')
 </head>
